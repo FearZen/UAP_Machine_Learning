@@ -17,13 +17,13 @@
 
 ---
 
-## 🔎 Deskripsi Proyek #deskripsi-proyek
+## 🔎 Deskripsi Proyek <a id="deskripsi-proyek"></a>
 
 Proyek ini adalah aplikasi web berbasis **Streamlit** untuk memprediksi hasil produksi pertanian berdasarkan dataset yang tersedia. Proyek ini bertujuan untuk memberikan wawasan kepada pengguna tentang prediksi produksi berbagai komoditas pertanian menggunakan model machine learning. Aplikasi ini menyediakan opsi untuk menggunakan model **Random Forest** atau **XGBoost** sebagai prediktor.
 
 ---
 
-## 📊 Dataset #dataset
+## 📊 Dataset <a id="dataset"></a>
 
 Dataset yang digunakan berasal dari Kaggle: [Crop Production Dataset](https://www.kaggle.com/datasets/imtkaggleteam/crop-production).
 
@@ -31,13 +31,13 @@ Dataset ini mencakup data historis produksi pertanian untuk berbagai area dan ko
 
 ---
 
-## 🔧 Repository #repository
+## 🔧 Repository <a id="repository"></a>
 
 Repository proyek dapat ditemukan di GitHub: [FearZen/UAP_Machine_Learning](https://github.com/FearZen/UAP_Machine_Learning)
 
 ---
 
-## 📚 Langkah Instalasi #langkah-instalasi
+## 📚 Langkah Instalasi <a id="langkah-instalasi"></a>
 
 Ikuti langkah-langkah berikut untuk menjalankan proyek ini secara lokal:
 
@@ -79,7 +79,7 @@ Ikuti langkah-langkah berikut untuk menjalankan proyek ini secara lokal:
 
 ---
 
-## 🔢 Deskripsi Model #deskripsi-model
+## 🔢 Deskripsi Model <a id="deskripsi-model"></a>
 
 Proyek ini menggunakan dua model machine learning:
 
@@ -93,7 +93,7 @@ Proyek ini menggunakan dua model machine learning:
 
 ---
 
-## 🎨 Hasil dan Analisis #hasil-dan-analisis
+## 🎨 Hasil dan Analisis #<a id="hasil-dan-analisis"></a>
 
 Berikut adalah perbandingan performa antara model **Random Forest** dan **XGBoost**:
 
@@ -106,7 +106,7 @@ Dari hasil di atas, **XGBoost** memiliki performa yang lebih baik dibandingkan *
 
 ---
 
-## 📢 Kontak #kontak
+## 📢 Kontak <a id="kontak"></a>
 
 Terima kasih telah menggunakan aplikasi ini! Jika Anda memiliki pertanyaan atau saran, jangan ragu untuk membuka isu di repository GitHub.
 
